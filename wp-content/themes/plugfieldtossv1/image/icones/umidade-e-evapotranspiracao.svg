@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <g id="umidade-e-evapotranspiracao" transform="translate(3 11.786)">
+    <rect id="Retângulo_155" data-name="Retângulo 155" width="90" height="90" transform="translate(-3 -11.786)" fill="none"/>
+    <path id="Caminho_913" data-name="Caminho 913" d="M52.641,59.29h0a4.791,4.791,0,0,1-4.656-5.925l2.891-11.914a1.8,1.8,0,0,1,3.53,0L57.3,53.365a4.8,4.8,0,0,1-4.656,5.925" transform="translate(9.145 -3.191)" fill="#1c5b62"/>
+    <path id="Caminho_914" data-name="Caminho 914" d="M30.761,64.96h0a4.791,4.791,0,0,1-4.656-5.916L29,47.121a1.8,1.8,0,0,1,3.53,0l2.891,11.923a4.791,4.791,0,0,1-4.656,5.916" transform="translate(11.321 -3.755)" fill="#1c5b62"/>
+    <path id="Caminho_915" data-name="Caminho 915" d="M8.471,70.03h0a4.791,4.791,0,0,1-4.656-5.916L6.724,52.191a1.8,1.8,0,0,1,3.53,0l2.891,11.923A4.791,4.791,0,0,1,8.471,70.03" transform="translate(13.538 -4.259)" fill="#1c5b62"/>
+    <path id="Caminho_916" data-name="Caminho 916" d="M6.85,1.954V28a1.954,1.954,0,1,0,3.908,0V1.954a1.954,1.954,0,1,0-3.908,0" transform="translate(13.223 0.789)" fill="#1c5b62"/>
+    <path id="Caminho_917" data-name="Caminho 917" d="M3.339,9.5,8.112,4.71,12.9,9.5a1.954,1.954,0,0,0,2.765-2.756L9.508.576a1.936,1.936,0,0,0-2.756,0L.574,6.745A1.954,1.954,0,0,0,3.339,9.5" transform="translate(13.897 0.789)" fill="#1c5b62"/>
+    <path id="Caminho_918" data-name="Caminho 918" d="M28.93,1.939v20.1a1.954,1.954,0,1,0,3.9,0V1.939a1.954,1.954,0,1,0-3.9,0" transform="translate(11.027 0.804)" fill="#1c5b62"/>
+    <path id="Caminho_919" data-name="Caminho 919" d="M25.4,9.5,30.2,4.71,34.993,9.5a1.949,1.949,0,1,0,2.756-2.756L31.58.577a1.954,1.954,0,0,0-2.765,0L22.647,6.745A1.949,1.949,0,1,0,25.4,9.5" transform="translate(11.708 0.789)" fill="#1c5b62"/>
+    <path id="Caminho_920" data-name="Caminho 920" d="M51,1.939V17.429a1.954,1.954,0,0,0,3.9,0V1.939a1.954,1.954,0,1,0-3.9,0" transform="translate(8.832 0.804)" fill="#1c5b62"/>
+    <path id="Caminho_921" data-name="Caminho 921" d="M47.474,9.5,52.265,4.71,57.055,9.5a1.949,1.949,0,0,0,2.756-2.756L53.642.576a1.936,1.936,0,0,0-2.756,0L44.709,6.745A1.954,1.954,0,1,0,47.474,9.5" transform="translate(9.521 0.789)" fill="#1c5b62"/>
+    <path id="Caminho_922" data-name="Caminho 922" d="M2.667,46.042l52.1-14.534a1.954,1.954,0,0,0-1.045-3.764L1.622,42.278a1.972,1.972,0,0,0-1.36,2.413,1.954,1.954,0,0,0,2.4,1.351" transform="translate(13.885 -1.965)" fill="#1c5b62"/>
+  </g>
+</svg>

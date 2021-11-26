@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168" height="211" viewBox="0 0 168 211">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_12" data-name="Elipse 12" cx="70" cy="70" r="70" transform="translate(0 0.4)" fill="#009b3a"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-94 -172)">
+    <path id="União_3" data-name="União 3" d="M23.3,141.831h.038A83.923,83.923,0,1,1,168,83.841a83.484,83.484,0,0,1-23.333,57.99h.038L84,211Z" transform="translate(94 172)" fill="#d9d9d9"/>
+    <circle id="Elipse_10" data-name="Elipse 10" cx="70" cy="70" r="70" transform="translate(108 186)" fill="#009b3a"/>
+    <g id="Grupo_de_máscara_3" data-name="Grupo de máscara 3" transform="translate(108 185.6)" clip-path="url(#clip-path)">
+      <path id="Caminho_6" data-name="Caminho 6" d="M20.1,20.1,120.526,0l-20.1,100.425L0,120.526Z" transform="translate(70 -14) rotate(45)" fill="#fedf00"/>
+      <ellipse id="Elipse_11" data-name="Elipse 11" cx="34.5" cy="35" rx="34.5" ry="35" transform="translate(36 35.4)" fill="#0f3d9a"/>
+    </g>
+  </g>
+</svg>

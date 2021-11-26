@@ -1,0 +1,40 @@
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+:root {
+  --swiper-theme-color: #fff;
+}
+
+.carousel-slider { margin-bottom: 50px; }
+
+.carousel-slider .swiper-wrapper {
+  padding: 20px 0;
+}
+
+.carousel-slider .swiper-slide {
+  -webkit-transition: 250ms all;
+  transition: 250ms all;
+}
+
+.carousel-slider .swiper-slide:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  z-index: 1;
+  cursor: pointer;
+}
+
+.carousel-slider .swiper-slide:first-child:hover {
+  margin: 0 40px;
+}
+
+.carousel-slider .swiper-slide:last-child:hover {
+  margin: 0 -40px;
+}
+/*# sourceMappingURL=styles.css.map */

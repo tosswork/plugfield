@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <g id="pressao-atmosferica" transform="translate(2.948 12.786)">
+    <rect id="Retângulo_153" data-name="Retângulo 153" width="90" height="90" transform="translate(-2.948 -12.786)" fill="none"/>
+    <path id="Caminho_929" data-name="Caminho 929" d="M64.982,33.463H63.037a29.564,29.564,0,1,1-8.663-20.856,29.564,29.564,0,0,1,8.663,20.856h3.908a120.457,120.457,0,1,1-.009.006Z" transform="translate(8.579 -1.249)" fill="#1c5b62"/>
+    <path id="Caminho_930" data-name="Caminho 930" d="M32.141,42.872,46.6,28.41a1.954,1.954,0,0,0-2.765-2.756L29.377,40.062a1.955,1.955,0,0,0,2.765,2.765" transform="translate(5.714 -3.751)" fill="#1c5b62"/>
+    <path id="Caminho_931" data-name="Caminho 931" d="M40.3,28.988H44.23v3.926a1.954,1.954,0,0,0,3.9,0v-5.88a1.963,1.963,0,0,0-.567-1.378,1.99,1.99,0,0,0-1.378-.576H40.3a1.954,1.954,0,0,0,0,3.908" transform="translate(4.764 -3.744)" fill="#1c5b62"/>
+    <path id="Caminho_932" data-name="Caminho 932" d="M7.785,56.224,6.164,57.3A33.437,33.437,0,0,0,62,57.3a1.954,1.954,0,0,0-1.63-3.026H7.785A1.945,1.945,0,0,0,6.164,57.3l1.621-1.072v1.945H60.375V56.224l-1.621-1.081a29.537,29.537,0,0,1-49.34,0l-1.63,1.081Z" transform="translate(7.999 -6.648)" fill="#1c5b62"/>
+    <path id="Caminho_933" data-name="Caminho 933" d="M35,3.049v9.14a1.954,1.954,0,1,0,3.9,0V3.049a1.954,1.954,0,1,0-3.9,0" transform="translate(5.098 -1.345)" fill="#1c5b62"/>
+    <path id="Caminho_934" data-name="Caminho 934" d="M2.664,39.3h9.113a1.954,1.954,0,1,0,0-3.908H2.664a1.954,1.954,0,1,0,0,3.908" transform="translate(8.509 -4.77)" fill="#1c5b62"/>
+    <path id="Caminho_935" data-name="Caminho 935" d="M70.214,35.39h-9.14a1.954,1.954,0,1,0,0,3.908h9.14a1.954,1.954,0,1,0,0-3.908" transform="translate(2.698 -4.77)" fill="#1c5b62"/>
+    <path id="Caminho_936" data-name="Caminho 936" d="M11.327,14.486l6.466,6.439a1.945,1.945,0,1,0,2.756-2.7l-6.466-6.466a1.949,1.949,0,0,0-2.756,2.756" transform="translate(7.509 -2.362)" fill="#1c5b62"/>
+    <path id="Caminho_937" data-name="Caminho 937" d="M59.112,11.724l-6.466,6.493a1.945,1.945,0,0,0,2.756,2.7l6.466-6.466A1.949,1.949,0,0,0,59.112,11.7" transform="translate(3.382 -2.356)" fill="#1c5b62"/>
+  </g>
+</svg>
